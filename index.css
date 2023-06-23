@@ -1,0 +1,52 @@
+.h1{
+    text-align: center;
+    font-size: 3rem;
+}
+body {
+    
+    background-color: #011F3F;
+  }
+
+  .style{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    margin-top: 50px;
+    color: #FEF2BF;
+  }
+  span{
+      font-size: larger;
+  }
+
+  .stylerules{
+      font-size: small;
+      margin-left: 2%   ;
+  }
+  h2{
+      text-align: center;
+  }
+  .cont{
+      display: flex;
+      justify-content: center;
+  }
+  .bttt{
+    background-color: transparent;
+    color: #fff;
+    border-radius: 10px; 
+    border-width: 1px;
+    border-color: white;
+    /*color: black; */
+    padding: 10px 20px; 
+    /* text-align: center;  */
+    text-decoration: none;
+    display: inline-block; 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+    font-weight: 300;
+    cursor: pointer; 
+    width: 150px;
+    height: 70px;
+  }
+  .bttt:hover{
+    background-color: #FEF2BF;
+    color: black;
+  }
